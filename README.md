@@ -26,4 +26,8 @@ Pada file ini kami melakukan ekstrak data hasil scraping dalam bentuk format '.c
 <summary>Menambahkan kolom baru ke DataFrame '] = df['catatan_amar'].apply(lambda x: extract_sentence_with_keyword(x, "barang bukti berupa"))'</summary>
 <summary>Menyimpan DataFrame ke file CSV baru 'output_csv = 'output_with_barang_bukti.csv'
 df.to_csv(output_csv, index=False)'</summary>
-<summary>Menampilkan hasil file CSV dengan DataFrame 'df'</summary>
+<summary>Menampilkan hasil file CSV dengan DataFrame 'df'></summary>> 
+  
+  ![image](https://user-images.githubusercontent.com/71591898/282300700-9a535113-232c-4fbd-b92c-c4a13000f292.png)
+
+
