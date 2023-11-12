@@ -17,7 +17,7 @@ Output Hasil scraping [here](https://drive.google.com/drive/folders/1-09WtL_h_GG
 Pada file ini kami melakukan ekstrak data hasil scraping dalam bentuk format '.csv', dan kami juga melakukan preprocessing pada file tersebut.
 <details>
 <summary>Function</summary>
-  <summary>mengupload file 'putusan_ma__2023-11-11 (1).csv'</summary>
+<summary>  mengupload file 'putusan_ma__2023-11-11 (1).csv'</summary>
 
 
 
