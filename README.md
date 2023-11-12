@@ -17,14 +17,14 @@ Output Hasil scraping [here](https://drive.google.com/drive/folders/1-09WtL_h_GG
 Pada file ini kami melakukan ekstrak data hasil scraping dalam bentuk format '.csv', dan kami juga melakukan preprocessing pada file tersebut.
 <details>
 <summary>Preprocessing</summary>
-  - [Mengupload file 'putusan_ma__2023-11-11 (1).csv']
-  - [Mengembalikan jumlah nilai NaN di semua kolom pandas DataFrame dengan Python 'df.isna().sum()']
-  - [Menghapus baris/kolom tertentu 'columns_to_drop']
+<summary>Mengupload file 'putusan_ma__2023-11-11 (1).csv'</summary>
+<summary>Mengembalikan jumlah nilai NaN di semua kolom pandas DataFrame dengan Python 'df.isna().sum()']</summary>
+<summary>Menghapus baris/kolom tertentu 'columns_to_drop']</summary>
 </details>
 <details>
 <summary>Extract</summary>
-  - [Fungsi untuk ekstraksi kalimat dengan kata kunci 'def extract_sentence_with_keyword(text, keyword):']
-  - [Menambahkan kolom baru ke DataFrame '] = df['catatan_amar'].apply(lambda x: extract_sentence_with_keyword(x, "barang bukti berupa"))']
-  - [Menyimpan DataFrame ke file CSV baru 'output_csv = 'output_with_barang_bukti.csv'
+<summary>Fungsi untuk ekstraksi kalimat dengan kata kunci 'def extract_sentence_with_keyword(text, keyword):']</summary>
+<summary>Menambahkan kolom baru ke DataFrame '] = df['catatan_amar'].apply(lambda x: extract_sentence_with_keyword(x, "barang bukti berupa"))']</summary>
+<summary>Menyimpan DataFrame ke file CSV baru 'output_csv = 'output_with_barang_bukti.csv'</summary>
 df.to_csv(output_csv, index=False)']
   - [Menampilkan hasil file CSV dengan DataFrame 'df']
