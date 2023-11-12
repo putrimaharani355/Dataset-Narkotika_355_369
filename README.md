@@ -12,7 +12,7 @@ https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e4
   
 Output Hasil scraping [here](https://drive.google.com/drive/folders/1-09WtL_h_GGngG9gtxN9tlE8-OVzcJAF?usp=sharing)
 
-### Ekstrak Barang Bukti
+<summary>### Ekstrak Barang Bukti</summary>
 
 
 
