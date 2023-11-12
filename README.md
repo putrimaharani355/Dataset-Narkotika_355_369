@@ -8,14 +8,11 @@ Dataset yang kami gunakan untuk scraping ini adalah 'Pengadilan Negeri Jombang' 
 
 <details>
 <summary>URL Scraping</summary>
- https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=AMAR_LAINNYA&tp=0&court=098188PN317+++++++++++++++++++++&t_put=2023&t_reg=&t_upl=&t_pr= - 160 data - 8 page
- 
-https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=AMAR_LAINNYA&tp=0&court=098188PN317+++++++++++++++++++++&t_put=2023&t_reg=&t_upl=&t_pr=&page=1&obf=TANGGAL_PUTUS&obm=desc
-https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=AMAR_LAINNYA&tp=0&court=098188PN317+++++++++++++++++++++&t_put=2023&t_reg=&t_upl=&t_pr=&page=2&obf=TANGGAL_PUTUS&obm=desc
-https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=AMAR_LAINNYA&tp=0&court=098188PN317+++++++++++++++++++++&t_put=2023&t_reg=&t_upl=&t_pr=&page=3&obf=TANGGAL_PUTUS&obm=desc
-https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=AMAR_LAINNYA&tp=0&court=098188PN317+++++++++++++++++++++&t_put=2023&t_reg=&t_upl=&t_pr=&page=4&obf=TANGGAL_PUTUS&obm=desc
+https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=AMAR_LAINNYA&tp=0&court=098188PN317+++++++++++++++++++++&t_put=2023&t_reg=&t_upl=&t_pr=
+Output Hasil scraping [here](https://drive.google.com/drive/folders/1-09WtL_h_GGngG9gtxN9tlE8-OVzcJAF?usp=sharing)
 
-Hasil scraping [here](https://drive.google.com/drive/folders/1-09WtL_h_GGngG9gtxN9tlE8-OVzcJAF?usp=sharing)
+### Ekstrak Barang Bukti
+
 
 
 
